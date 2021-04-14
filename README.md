@@ -1,4 +1,3 @@
-# 前言
 
 1. 刚刚接触 Git 时，通篇阅读了官方的 [Pro Git Book](https://git-scm.com/book/zh/v2) ，实际操作时命令行一个也没记住，就直接使用了Git-GUI。
 
